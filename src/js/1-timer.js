@@ -78,7 +78,6 @@ function onClick() {
       seconds.textContent = '00';
 
       selector.disabled = false;
-      button.disabled = false;
 
       return;
     }
